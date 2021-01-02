@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/rh_launcher3_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyFuckinApp">
+        <activity android:name=".MainActivity2"
+                  android:label="@string/goto3"></activity>
         <activity android:name=".Exfolyart"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>

@@ -4,4 +4,9 @@
     <string name="first_image">first image</string>
     <string name="logo_exfolyart">logo_exfolyart</string>
     <string name="points_msg">Point : 0</string>
+    <string name="image_dans_layout">image dans layout</string>
+    <string name="button_name">Petit Boutton</string>
+    <string name="go_to_3">Aller au 3ème écran</string>
+    <string name="goto3">goto3</string>
+
 </resources>
