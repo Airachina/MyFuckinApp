@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFuckinApp</string>
+    <string name="welcome_msg">Bienvenue sur mon application</string>
+    <string name="first_image">first image</string>
+    <string name="logo_exfolyart">logo_exfolyart</string>
+    <string name="points_msg">Point : 0</string>
+</resources>
